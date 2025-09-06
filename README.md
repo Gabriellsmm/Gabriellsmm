@@ -1,5 +1,5 @@
-# Olá, eu sou Gabriel Lucas 
-Estudante de Ciência da Computação na PUC Minas | Apaixonado por desenvolvimento de software, automações e IA 
+# Olá, me chamo Gabriel Lucas 
+Sou estudante de Ciência da Computação na PUC Minas, atualmente cursando o terceiro período. | Apaixonado por desenvolvimento de software, automações e IA 
 
 Na faculdade, estou trabalhando em projetos de backend, e automações financeiras. Sempre buscando aprender novas tecnologias e melhorar minhas habilidades em programação e desenvolvimento de software.
 
