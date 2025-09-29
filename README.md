@@ -9,7 +9,7 @@ Na faculdade, estou trabalhando em projetos de backend, e automações financeir
 - Linguagens: Java, C, C++, Python, JavaScript
 - Banco de Dados: NoSQL
 - Ferramentas: Git, VS Code, Neovim + Lazyvim
-- Outras: Automação, IA, Desenvolvimento Full Stack
+- Outras: Automação, IA
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
